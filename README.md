@@ -1,5 +1,6 @@
 # keyboardmaestro
-once again, the idea is to put them all together.
+
+Ideally this will eventually be the place where I store all of my Keyboard Maestro macros, rather than having them spread all over everywhere.
 
 
 ## [Stream-Deck-Backup-Application-Support-Folder-on-Quit.kmmacros](https://raw.githubusercontent.com/tjluoma/keyboardmaestro/master/Stream-Deck-Backup-Application-Support-Folder-on-Quit.kmmacros)
